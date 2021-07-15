@@ -1,0 +1,16 @@
+{
+  "name": "edt-proxy",
+  "version": "1.0.0",
+  "description": "edt proxy for UKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-better-http-proxy": "^0.2.9"
+  }
+}
