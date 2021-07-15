@@ -1,8 +1,8 @@
 # EDT PROXY
 
-Smalll proxy to forward requests from UKit app to U-Bordeaux Calendar API
+Small proxy to forward requests from [UKit](https://github.com/kb-dev/UKit) app to U-Bordeaux Calendar API
 
-#### Nodes modules used:
+#### Node modules used:
 
 - [Koa](https://github.com/koajs/koa)
 - [koa-better-http-proxy](https://github.com/nsimmons/koa-better-http-proxy)
